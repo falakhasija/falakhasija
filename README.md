@@ -17,6 +17,13 @@ C++</li>
 <li>Bootstrap4</li>
 <li>JavaScript</li>
   </ul>
+  
+  
+  
+  <h2>🤝 Connect with me here</h2>
+  <ul>
+  <li><a href="https://www.linkedin.com/in/falak-hasija-7b670018a/">LinkedIn</a></li>
+  </ul>
 
 <!--
 **falakhasija/falakhasija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
