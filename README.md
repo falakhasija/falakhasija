@@ -5,15 +5,18 @@ I'm a Web Developer , Programmer and a Community lover 💖 Also I am a develope
 
 
 
-🔧 Technologies & Tools
-C++
-Python
-SQL
-Operating System
-HTML5
-CSS3
-Bootstrap4
-JavaScript
+<h2>🔧 Technologies & Tools</h2>
+<ul>
+  <li>
+C++</li>
+<li>Python</li>
+<li>SQL</li>
+<li>Operating System</li>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>Bootstrap4</li>
+<li>JavaScript</li>
+  </ul>
 
 <!--
 **falakhasija/falakhasija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
