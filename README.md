@@ -1,5 +1,5 @@
 ### # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<b>My name is Falak Hasija and I am a tech enthusiast. 🧐</b>
+<b><h3>My name is Falak Hasija and I am a tech enthusiast. 🧐</h3></b>
 
 I'm a Web Developer , Programmer and a Community lover 💖 Also I am a developer and have good knowledge of C++,Python, HTML5, CSS3, JavaScript, Bootstrap. I am keen to learn backend technologies in the upcoming months.✨
 
