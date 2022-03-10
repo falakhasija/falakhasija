@@ -1,5 +1,7 @@
 ### Hi there 👋
+My name is Falak Hasija and I am a tech enthusiast. 🧐
 
+I'm a Web Developer , Programmer and a Community lover 💖 Also I am a developer and have good knowledge of C++,Python, HTML5, CSS3, JavaScript, Bootstrap. I am keen to learn backend technologies in the upcoming months.✨
 <!--
 **falakhasija/falakhasija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
