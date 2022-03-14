@@ -22,10 +22,11 @@ C++</li>
   </ul>
   
   
-  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <h2>🤝 Connect with me here</h2>
   <ul>
-  <li><a href="https://www.linkedin.com/in/falak-hasija-7b670018a/">LinkedIn</a></li>
+  
+  <li><a href="https://www.linkedin.com/in/falak-hasija-7b670018a/"><b>Linkedin</b></a></li>
   </ul>
   
   
