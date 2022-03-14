@@ -3,10 +3,7 @@
 
 I'm a <b>Web Developer</b> , <b>Programmer</b> and a <b>Community lover</b> 💖 Also I am a developer and have good knowledge of C++,Python, HTML5, CSS3, JavaScript, Bootstrap. I am keen to learn backend technologies in the upcoming months.✨
 
-![computer](https://user-images.githubusercontent.com/49366890/158172319-9b2b9ca2-975c-4495-b96d-aa677a6139f0.gif)
-
-
-
+📫<h3> How to reach me **falakhasija1509@gmail.com**</h3>
 
 <h2>🔧 Technologies & Tools</h2>
 <ul>
@@ -20,7 +17,7 @@ C++</li>
 <li>Bootstrap4</li>
 <li>JavaScript</li>
   </ul>
-  
+ 
   
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <h2>🤝 Connect with me here</h2>
