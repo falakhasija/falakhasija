@@ -19,9 +19,9 @@ C++</li>
   </ul>
  
   ![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d66616c616b686173696a612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374](https://user-images.githubusercontent.com/49366890/158178139-20886667-c0f0-41d7-9d8a-8e58a71bd537.svg)
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<!--   <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="falak-hasija-7b670018a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/falak-hasija-7b670018a?trk=profile-badge">Falak Hasija</a></div>
-              
+               -->
 
 
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
